@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"S-man","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"S-man","traits":[],"initialLevel":8,"maxLevel":8,"name":"サラリーマン","nickname":"","note":"<HMHalfDisable>","profile":"現代社会の勇者さん"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":14,"dataId":1,"value":1},{"code":22,"dataId":1,"value":1}],"initialLevel":8,"maxLevel":8,"name":"","nickname":"","note":"<HMHalfDisable>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":14,"dataId":1,"value":1},{"code":13,"dataId":3,"value":1},{"code":22,"dataId":1,"value":1}],"initialLevel":8,"maxLevel":8,"name":"","nickname":"","note":"<HMHalfDisable>","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":14,"dataId":1,"value":1},{"code":22,"dataId":1,"value":1}],"initialLevel":8,"maxLevel":8,"name":"","nickname":"","note":"<HMHalfDisable>","profile":""}
+]
